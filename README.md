@@ -1,3 +1,3 @@
 # TeamInternational
 TeamInternational Bot
-in BOT.ar is all compressed project in Intellij IDEA
+in BOT.rar is all compressed project in Intellij IDEA
